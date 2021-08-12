@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 1,
+    "name": "cat"
+  },
+  "name": "Bolina",
+  "photoUrls": [
+    "https://scontent.fcgh12-1.fna.fbcdn.net/v/t31.18172-8/288388_3539228999762_72707082_o.jpg?_nc_cat=101&ccb=1-4&_nc_sid=cdbe9c&_nc_ohc=Rb2fopt23KEAX_WwAKr&_nc_ht=scontent.fcgh12-1.fna&oh=f28035757092d683af2d8c6ef2a1d3aa&oe=613A06BD"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta"
+    }
+  ],
+  "status": "available"
+}
